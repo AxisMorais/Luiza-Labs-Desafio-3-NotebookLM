@@ -1,7 +1,7 @@
 # Luiza-Labs-Desafio-3-NotebookLM
 
 ## CONTEXTO
- - Utilização do Notebook Ln para execução de pesquisa no campo da área da saúde correlacionado com a música.
+ - Utilização da ferramenta NotebookLM para execução de pesquisa no campo da área da saúde correlacionado com a música.
 
 ## OBJETIVO
  - Ler e interpretar artigos acadêmicos, textos e vídeos realizando resumo das principais informações com o Notebook LN 
