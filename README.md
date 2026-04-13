@@ -1,7 +1,9 @@
 # Luiza-Labs-Desafio-3-NotebookLM
 
 ## CONTEXTO
- NotebookLM é uma ferramenta de pesquisa e anotações on-line desenvolvida pelo Google Labs que usa inteligência artificial, especificamente o Google Gemini. Essa ferramenta foi utilizada para a execução de pesquisa referente aos impactos da música na saúde.
+ NotebookLM é uma ferramenta de pesquisa e anotações on-line desenvolvida pelo Google Labs que usa inteligência artificial, especificamente o Google Gemini. 
+ 
+ Essa ferramenta foi utilizada para a execução de pesquisa referente aos impactos da música na saúde.
 
 ## OBJETIVO
  - Ler e interpretar artigos acadêmicos e vídeos realizando resumo das principais informações com a ferramenta Notebook LN
