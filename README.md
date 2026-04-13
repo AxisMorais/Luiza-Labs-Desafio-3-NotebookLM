@@ -7,7 +7,7 @@
 
 ## OBJETIVO
  - Ler e interpretar artigos acadêmicos e vídeos realizando resumo das principais informações com a ferramenta Notebook LN
- - Apresentar resultados como: resumo, podcast e mapamental sobre os principais impactos da música na saúde humana.
+ - Apresentar resultados como: resumo, podcast e mapa mental sobre os principais impactos da música na saúde humana.
 
 ## TEMA:
    - Os efeitos da música no processo de cura.
