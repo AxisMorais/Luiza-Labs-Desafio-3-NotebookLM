@@ -1,13 +1,14 @@
 # Luiza-Labs-Desafio-3-NotebookLM
 
 ## CONTEXTO
- - Utilização da ferramenta NotebookLM para execução de pesquisa no campo da área da saúde e música.
+ - Utilização da ferramenta NotebookLM para execução de pesquisa referente aos impactos da música na saúde.
 
 ## OBJETIVO
- - Ler e interpretar artigos acadêmicos, textos e vídeos realizando resumo das principais informações com o Notebook LN 
+ - Ler e interpretar artigos acadêmicos e vídeos realizando resumo das principais informações com a ferramenta Notebook LN
+ - Apresentar resultados como: resumo, podcast e mapamental sobre os principais impactos da música na saúde humana.
 
 ## TEMA:
-   - Os efeitos da música e do som no processo de cura.
+   - Os efeitos da música no processo de cura.
 
 ## FONTES DE VÍDEO 
   - https://www.youtube.com/watch?v=fT2Mo4PJv_0
